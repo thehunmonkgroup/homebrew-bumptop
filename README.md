@@ -7,8 +7,9 @@ An alternate [Homebrew Cask](http://caskroom.io) tap for installing [Bumptop](ht
 
 However, before they closed their commercial site, there was a newer release which *does* still work, with some minor glitches on some OS X versions. This alternate tap makes use of that release, and will be available as long as it continues to work.
 
-### Usage
+### Installing the Cask
 
-To tap run: ```brew tap thehunmonkgroup/homebrew-bumptop```
-
-Then install as normal.
+```shell
+brew tap thehunmonkgroup/homebrew-bumptop
+brew cask install bumptop
+```
