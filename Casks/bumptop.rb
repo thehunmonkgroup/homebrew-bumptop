@@ -1,4 +1,4 @@
-cask :v1 => 'bumptop' do
+cask 'bumptop' do
   version '1.06'
   sha256 '666ebe370744cf98e4afe8667fb2b0b71e1a63c85f18a8a96a586420940dadd3'
 
