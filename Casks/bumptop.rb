@@ -4,7 +4,6 @@ cask 'bumptop' do
 
   url 'https://dl.dropboxusercontent.com/s/5kggqgsregfhfv6/BumpTop-1.06.dmg'
   homepage 'https://code.google.com/p/bumptop'
-  license :oss
 
   app 'BumpTop.app'
   caveats 'The project is no longer officially maintained, but seems to work fine (with some minor glitches on some OS X versions).'
